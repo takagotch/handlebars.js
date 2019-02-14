@@ -16,7 +16,15 @@ var result = template(data);
 ```
 
 ```
+npm install --handlebars
+bower install --save handlebars
+```
+
+```js
+require('handlebars');
+require('handlebars/runtine');
 ```
 
 ```
+
 ```
